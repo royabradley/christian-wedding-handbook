@@ -1,3 +1,16 @@
+# <The Christian Wedding Handbook>
+
+Created using the LaTeX template:
+https://github.com/royabradley/latex-mimosis-template
+
+Template catalog:
+https://github.com/royabradley/latex-template-index
+
+Template origin:
+https://github.com/Pseudomanifold/latex-mimosis
+
+---
+
 # latex-mimosis: A minimal & modern template for your thesis
 
 This repository contains a minimal & modern LaTeX template for
